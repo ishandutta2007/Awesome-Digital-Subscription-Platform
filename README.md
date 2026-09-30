@@ -1,48 +1,47 @@
-# Awesome-Digital-Subscription-Platform
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Subscription-Platform">
+    <img src="./assets/banner.svg" alt="Awesome Digital Subscription Platform Banner" width="100%">
+  </a>
+</p>
 
-## Top Digital Subscription Platform Ecosystem
+# 💳 Awesome Digital Subscription Platform 🚀
 
+<p align="left">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Subscription-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Subscription-Platform?style=flat-square" alt="Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Subscription-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Digital-Subscription-Platform?style=flat-square" alt="Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Subscription-Platform/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Digital-Subscription-Platform?style=flat-square" alt="Issues"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+> **A curated list of top SaaS products, open-source billing engines, metered usage software, paywall frameworks, and recurring revenue tools for digital subscription platforms.**
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+---
 
-*Focused on Subscription Billing, Membership Access, Recurring Revenue, Metering & Publisher Paywalls*  
+## 📌 Overview & Ecosystem Focus
 
-**Last updated: October 2026**
+This repository tracks notable **SaaS platforms** and **open-source projects** for building modern **Digital Subscription Platforms**. Whether you are building a B2B SaaS startup, a publisher media outlet, or a creator community, these systems handle recurring subscription billing, meter usage-based pricing, manage paywalls, enforce entitlements, and automate subscriber dunning workflows.
 
+*   **Commercial SaaS Leaders**: Features enterprise and mid-market billing suites including Chargebee, Zuora, Paddle, Recurly, Piano, Memberful, Memberstack, Outseta, Ghost (Pro), and Substack.
+*   **Open-Source Infrastructure**: Open billing cores like Ghost, Hyperswitch, Listmonk, Lago, Invoice Ninja, Crater, Kill Bill, Solidus, and OpenMeter enable self-hosted, customizable recurring revenue stacks.
 
+---
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Digital Subscription Platforms**. These systems handle recurring billing, entitlements, paywalls, and subscriber lifecycle for media, SaaS, and membership businesses.
+## 📚 Table of Contents
 
+- [🏢 Hosted \& Commercial SaaS Platforms](#-hosted--commercial-saas-platforms)
+- [💎 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support \& Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
+---
 
-**Examples** include Piano, Zuora, Chargebee, Recurly, Paddle, Memberful, Memberstack, Outseta, Ghost (Pro), and Substack for Publishers (the category leaders).
+## 🏢 Hosted & Commercial SaaS Platforms
 
-
-
-**Open-source emphasis**: Subscription billing has strong open cores. **Kill Bill**, **Lago**, **Ghost**, and related tools enable self-hosted recurring revenue stacks. This section is heavily expanded.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
+📊 **Market Size & Fragmentation**: The global digital subscription & billing management market size is estimated at **~$10.5 Billion in 2026** (projected to reach **$22.5+ Billion by 2030** at ~15% CAGR). The market is **moderately fragmented**: enterprise billing and revenue recognition are led by category giants (Zuora, Chargebee), while merchant-of-record platforms (Paddle), creator membership systems (Substack, Memberful), and usage-metering engines (Lago, OpenMeter) maintain strong dedicated niches rather than a single "winner-take-all" monopoly.
 
 | Platform | Description / Primary Focus | Starting Tier Pricing | Free Tier / Free Trial Limits | Company Scale (Valuation / Revenue) |
 | :--- | :--- | :--- | :--- | :--- |
@@ -57,122 +56,72 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Memberstack](https://www.memberstack.com/)** | Modular membership, user authentication, and Stripe payments for Webflow and custom web apps. | **$29/mo** ($25/mo billed annually, Basic plan up to 1,000 members + 4% transaction fee) | **Unlimited free trial in test mode** (no credit card required until project launch) | **~$30 Million** Est. Valuation (Y Combinator S20) / ~$5M ARR |
 | **[Outseta](https://www.outseta.com/)** | All-in-one SaaS starter kit combining subscription billing, CRM, email marketing, and auth. | **$47/mo** ($37/mo billed annually, Founder plan) | **7-day free trial** with full platform feature access | **~$3 Million** ARR (Bootstrapped / Independent) |
 
+---
 
+## 💎 Open-Source GitHub Projects
 
+Below are leading open-source repositories for self-hosted subscription billing, payment orchestration, newsletter publishing, and usage-based metering, sorted by GitHub stargazers count (descending):
 
+1. 🌟 **[Ghost](https://github.com/TryGhost/Ghost)** [![GitHub stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=social&color=white)](https://github.com/TryGhost/Ghost/stargazers)  
+   *Independent open-source publishing platform with native membership tiers, recurring payment support, and email newsletter publishing.*
 
-## Open-Source GitHub Projects
+2. ⚡ **[Hyperswitch](https://github.com/juspay/hyperswitch)** [![GitHub stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers)  
+   *Open-source financial payment switch for global payments orchestration, smart routing, and subscription payment processing.*
 
+3. 📬 **[Listmonk](https://github.com/knadh/listmonk)** [![GitHub stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers)  
+   *High-performance self-hosted newsletter manager and mailing list manager frequently paired with publisher subscription systems.*
 
+4. 🌊 **[Lago](https://github.com/getlago/lago)** [![GitHub stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers)  
+   *Open-source metering and usage-based billing platform designed for developers—event ingestion, hybrid pricing plans, and invoicing.*
 
-- **[Kill Bill](https://github.com/killbill/killbill)**  
+5. 🧾 **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)  
+   *Self-hosted open-source invoicing, recurring billing, and task tracking application for freelancers and small businesses.*
 
-  Leading open-source subscription billing and payments platform—complex plans, usage, invoicing, and plugin architecture since 2010.
+6. 🌋 **[Crater](https://github.com/crater-invoice/crater)** [![GitHub stars](https://img.shields.io/github/stars/crater-invoice/crater?style=social&color=white)](https://github.com/crater-invoice/crater/stargazers)  
+   *Open-source web and mobile invoicing software built with Laravel and Vue to track billing, payments, and recurring invoices.*
 
+7. 🎯 **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)  
+   *The leading enterprise open-source subscription billing and payment platform with complex pricing models, plugin architecture, and dunning.*
 
+8. 🛒 **[Solidus](https://github.com/solidusio/solidus)** [![GitHub stars](https://img.shields.io/github/stars/solidusio/solidus?style=social&color=white)](https://github.com/solidusio/solidus/stargazers)  
+   *Open-source e-commerce framework built on Ruby on Rails with extensible subscription order and recurring billing add-ons.*
 
-- **[Lago](https://github.com/getlago/lago)**  
-
-  Open-source metering and usage-based billing platform—event ingestion, pricing, and invoicing; self-host or managed cloud.
-
-
-
-- **[Ghost](https://github.com/TryGhost/Ghost)**  
-
-  Open-source publishing platform with native memberships, paid subscriptions, and newsletters—full control when self-hosted.
-
-
-
-- **[Strand / open membership plugins](https://github.com/search?q=subscription+membership+open+source)**  
-
-  Community membership and paywall projects for CMS and static sites.
-
-
-
-- **[Solidus / Spree subscription extensions](https://github.com/solidusio/solidus)**  
-
-  Open e-commerce platforms with subscription and recurring-order extensions.
-
-
-
-- **[Invoice Ninja & open invoicing](https://github.com/invoiceninja/invoiceninja)**  
-
-  Open invoicing and client billing adaptable to simple recurring use cases.
-
-
-
-- **[Payment provider SDKs + webhook patterns](https://github.com/search?q=stripe+subscription+open+source+billing)**  
-
-  Open reference implementations for Stripe Billing and similar APIs as a lightweight alternative to full billing suites.
-
-
-
-- **[Listmonk / open newsletter tools](https://github.com/knadh/listmonk)**  
-
-  Open self-hosted newsletter stacks often paired with membership access for publisher-style subscriptions.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Full billing engine**: Kill Bill for complex subscription and payment logic.
-
-- **Usage-based**: Lago for metering-first products.
-
-- **Publisher memberships**: Ghost self-hosted for content + paid subscribers.
-
-- **Composable stacks**: Stripe/Paddle API + Lago/Kill Bill + Ghost or custom app entitlements.
-
-- Commercial platforms still lead in tax, revenue recognition, merchant-of-record, and global payment ops.
-
-
-
-**Frameworks for building custom systems**:  
-
-**Kill Bill** or **Lago** for billing; **Ghost** for publisher memberships; payment-provider APIs for simpler SaaS.  
-
-Commercial platforms (Zuora, Chargebee, Piano, Recurly, Paddle, Memberful, etc.) reduce compliance and ops burden.  
-
-Startups often start with Stripe Billing + open tools; complex or high-volume programs adopt dedicated subscription platforms. Fully open subscription stacks are production-viable with careful payment and tax handling.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Subscription systems handle payments and personal data. Comply with PCI scope reduction, tax/VAT rules, consumer cancellation rights, and privacy law. Incorrect billing damages trust and can create legal exposure.
-
-- Open-source tools offer control but place security, compliance, and payment operations on you. Commercial platforms (especially merchant-of-record) shift much of that burden to the vendor. Neither replaces clear pricing and customer communication.
-
-
+9. 📊 **[OpenMeter](https://github.com/openmeterio/openmeter)** [![GitHub stars](https://img.shields.io/github/stars/openmeterio/openmeter?style=social&color=white)](https://github.com/openmeterio/openmeter/stargazers)  
+   *Cloud-native open-source usage metering platform for AI tools, API billing, and real-time usage-based monetization.*
 
 ---
 
+## 🤝 How to Contribute
 
+Contributions are warmly welcome! To submit new projects or update existing information:
 
-**Made for publishers, SaaS founders, and teams building recurring revenue.**  
+1. 🍴 **Fork** this repository.
+2. 📝 **Add or edit** entries in `README.md` following the established table / list format.
+3. 🔍 Ensure descriptions remain **factual, concise, and linked to official repositories or websites**.
+4. 📥 Submit a **Pull Request (PR)** with a clear title and summary of changes.
 
-Let's expand open subscription and billing infrastructure while recognizing the compliance and scale that leading commercial platforms deliver.
+---
+
+## 💖 Support & Sponsorship
+
+If you find this curated list of digital subscription platforms useful for your projects or business:
+
+*   ⭐ **Star** this repository on GitHub to show your support!
+*   🍴 **Fork** and share it with fellow developers, SaaS founders, and creators.
+*   ☕ **Sponsor / Buy a Coffee**: If you'd like to support ongoing maintenance and research, consider sponsoring via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Thank you for supporting open-source software and developer resources! 🙌
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Digital-Subscription-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Digital-Subscription-Platform&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This repository is a **community-curated list** for informational and educational purposes. Inclusion does not constitute an endorsement.
+- Subscription engines and payment systems handle sensitive customer transactions and personal data. Always ensure your deployment complies with PCI-DSS scope reduction, local tax/VAT regulations, privacy laws (GDPR/CCPA), and consumer billing transparency mandates.
+- For curated awesome lists across all domains, check out [Awesome Awesome Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
