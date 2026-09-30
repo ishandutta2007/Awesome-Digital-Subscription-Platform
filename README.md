@@ -62,31 +62,31 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 Below are leading open-source repositories for self-hosted subscription billing, payment orchestration, newsletter publishing, and usage-based metering, sorted by GitHub stargazers count (descending):
 
-1. 🌟 **[Ghost](https://github.com/TryGhost/Ghost)** [![GitHub stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=social&color=white)](https://github.com/TryGhost/Ghost/stargazers)  
+1. 🌟 **[Ghost](https://github.com/TryGhost/Ghost)** [![GitHub_Stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=social&color=white)](https://github.com/TryGhost/Ghost/stargazers)  
    *Independent open-source publishing platform with native membership tiers, recurring payment support, and email newsletter publishing.*
 
-2. ⚡ **[Hyperswitch](https://github.com/juspay/hyperswitch)** [![GitHub stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers)  
+2. ⚡ **[Hyperswitch](https://github.com/juspay/hyperswitch)** [![GitHub_Stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers)  
    *Open-source financial payment switch for global payments orchestration, smart routing, and subscription payment processing.*
 
-3. 📬 **[Listmonk](https://github.com/knadh/listmonk)** [![GitHub stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers)  
+3. 📬 **[Listmonk](https://github.com/knadh/listmonk)** [![GitHub_Stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers)  
    *High-performance self-hosted newsletter manager and mailing list manager frequently paired with publisher subscription systems.*
 
-4. 🌊 **[Lago](https://github.com/getlago/lago)** [![GitHub stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers)  
+4. 🌊 **[Lago](https://github.com/getlago/lago)** [![GitHub_Stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers)  
    *Open-source metering and usage-based billing platform designed for developers—event ingestion, hybrid pricing plans, and invoicing.*
 
-5. 🧾 **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)  
+5. 🧾 **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub_Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)  
    *Self-hosted open-source invoicing, recurring billing, and task tracking application for freelancers and small businesses.*
 
-6. 🌋 **[Crater](https://github.com/crater-invoice/crater)** [![GitHub stars](https://img.shields.io/github/stars/crater-invoice/crater?style=social&color=white)](https://github.com/crater-invoice/crater/stargazers)  
+6. 🌋 **[Crater](https://github.com/crater-invoice/crater)** [![GitHub_Stars](https://img.shields.io/github/stars/crater-invoice/crater?style=social&color=white)](https://github.com/crater-invoice/crater/stargazers)  
    *Open-source web and mobile invoicing software built with Laravel and Vue to track billing, payments, and recurring invoices.*
 
-7. 🎯 **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)  
+7. 🎯 **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub_Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)  
    *The leading enterprise open-source subscription billing and payment platform with complex pricing models, plugin architecture, and dunning.*
 
-8. 🛒 **[Solidus](https://github.com/solidusio/solidus)** [![GitHub stars](https://img.shields.io/github/stars/solidusio/solidus?style=social&color=white)](https://github.com/solidusio/solidus/stargazers)  
+8. 🛒 **[Solidus](https://github.com/solidusio/solidus)** [![GitHub_Stars](https://img.shields.io/github/stars/solidusio/solidus?style=social&color=white)](https://github.com/solidusio/solidus/stargazers)  
    *Open-source e-commerce framework built on Ruby on Rails with extensible subscription order and recurring billing add-ons.*
 
-9. 📊 **[OpenMeter](https://github.com/openmeterio/openmeter)** [![GitHub stars](https://img.shields.io/github/stars/openmeterio/openmeter?style=social&color=white)](https://github.com/openmeterio/openmeter/stargazers)  
+9. 📊 **[OpenMeter](https://github.com/openmeterio/openmeter)** [![GitHub_Stars](https://img.shields.io/github/stars/openmeterio/openmeter?style=social&color=white)](https://github.com/openmeterio/openmeter/stargazers)  
    *Cloud-native open-source usage metering platform for AI tools, API billing, and real-time usage-based monetization.*
 
 ---
