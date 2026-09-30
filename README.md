@@ -44,33 +44,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-- **[Zuora, Chargebee, Recurly, Paddle](https://www.zuora.com/)**  
-
-  Enterprise and mid-market subscription billing platforms—catalog, invoicing, revenue recognition, and dunning.
-
-
-
-- **[Piano](https://piano.io/)**  
-
-  Publisher-focused subscription, paywall, and audience platform for media and content businesses.
-
-
-
-- **[Memberful, Memberstack, Outseta](https://memberful.com/)**  
-
-  Membership and access platforms popular with creators, communities, and smaller SaaS products.
+| Platform | Description / Primary Focus | Starting Tier Pricing | Free Tier / Free Trial Limits | Company Scale (Valuation / Revenue) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Chargebee](https://www.chargebee.com/)** | Enterprise & mid-market subscription billing, revenue recognition, invoicing, and retention. | **$599/mo** (Performance plan, billed annually for up to $100k MRR + 0.75% overage) | **Free Starter Plan** up to $250,000 cumulative revenue (0.75% overage fee after); or **14-day free trial** | **$3.5 Billion** Valuation (Series H) / ~$200M+ Annual Revenue |
+| **[Zuora](https://www.zuora.com/)** | Enterprise subscription management, quote-to-cash, revenue recognition (ASC 606), and complex catalog billing. | **~$75,000/yr** (~$6,250/mo baseline custom enterprise contract) | **No free tier or public free trial**; request-based sandbox demo environment only | **$1.7 Billion** Acquisition Valuation (Silver Lake / GIC) / ~$420M ARR |
+| **[Paddle](https://www.paddle.com/)** | Merchant of Record (MoR) platform handling global tax compliance, payments, and SaaS subscription billing. | **5% + $0.50** per transaction (pay-as-you-go, no monthly base fee) | **Free Sandbox environment** (pay $0 monthly fixed fee; fees charged per live transaction) | **$1.4 Billion** Valuation (Series D) / ~$91M Annual Revenue |
+| **[Substack](https://substack.com/)** | Publishing platform for paid newsletters, podcasts, and member-supported content. | **10% revenue share** on paid subscriber income (+ Stripe payment fees) | **Free forever for creators** (unlimited free subscribers & free publications with $0 platform fee) | **$1.1 Billion** Valuation (Series C) / ~$50M ARR |
+| **[Piano](https://piano.io/)** | Publisher-focused paywall, user journey personalization, customer data platform (CDP), and digital subscriptions. | **~$3,000 - $5,000/mo** (baseline custom enterprise contract) | **No free tier or public free trial**; custom product demo available upon request | **~$500 Million** Est. Valuation / ~$100M - $165M Annual Revenue |
+| **[Recurly](https://recurly.com/)** | Mid-market subscription management, dunning/churn reduction, and recurring payments processing. | **$249/mo** (Starter plan, includes up to $40,000/mo volume + 0.9% revenue overage) | **90-day free trial** on Starter plan (no credit card required) | **~$300 Million** Est. Valuation / ~$56M Annual Revenue ($16B+ volume processed) |
+| **[Memberful](https://memberful.com/)** | Membership access platform for creators, WordPress sites, podcasts, and digital communities. | **$49/mo** (Standard plan) + 4.9% transaction fee | **Free Starter Plan** ($0/mo + 10% transaction fee) or **unlimited test mode** before launch | **Acquired by Patreon** ($1.5B parent valuation) / ~$15M Est. Annual Revenue |
+| **[Ghost (Pro)](https://ghost.org/)** | Managed hosting for open-source Ghost publishing platform, paid memberships, and newsletters. | **$15/mo** (Starter plan, billed annually) or $18/mo (billed monthly) | **14-day free trial** (core Ghost software is 100% free open-source self-hosted) | **~$11 Million** ARR (Non-profit foundation, transparent public financials) |
+| **[Memberstack](https://www.memberstack.com/)** | Modular membership, user authentication, and Stripe payments for Webflow and custom web apps. | **$29/mo** ($25/mo billed annually, Basic plan up to 1,000 members + 4% transaction fee) | **Unlimited free trial in test mode** (no credit card required until project launch) | **~$30 Million** Est. Valuation (Y Combinator S20) / ~$5M ARR |
+| **[Outseta](https://www.outseta.com/)** | All-in-one SaaS starter kit combining subscription billing, CRM, email marketing, and auth. | **$47/mo** ($37/mo billed annually, Founder plan) | **7-day free trial** with full platform feature access | **~$3 Million** ARR (Bootstrapped / Independent) |
 
 
-
-- **[Ghost (Pro), Substack](https://ghost.org/)**  
-
-  Publishing platforms with built-in subscriptions and paid newsletters (Ghost also has a full open-source core).
-
-
-
-- **[Other commercial subscription platforms](https://www.chargebee.com/)**  
-
-  Additional CPQ-adjacent, usage-billing, and merchant-of-record services.
 
 
 
